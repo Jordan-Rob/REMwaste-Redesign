@@ -4,6 +4,36 @@
 
 A modern, full-stack skip hire selection platform for REMwaste built with React, Express.js, and TypeScript. The application integrates with real-time skip availability data and provides an intuitive booking experience comparable to modern platforms.
 
+### Live Demo
+The live application can be viewed at https://remwaste-redesign.onrender.com
+
+### Quick Setup
+
+#### Installation 
+1. Clone the repository:
+```bash
+git clone [repository-url]
+cd SkipSelectr
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+#### Running the Application
+1. Start the development server:
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+The application will be available at `http://localhost:3000`
+
+
 ## Technology Stack
 
 ### Frontend
